@@ -45,9 +45,9 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-
----
+```
 
 Run the streamlit app:
 ```bash
 streamlit run app.py
+```
